@@ -1,4 +1,4 @@
-# Thanks for checking out my GitHub!
+# Hi, I'm Cori! :woman_technologist:
 
 ## tl;dr:
 
