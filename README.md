@@ -6,10 +6,10 @@ I like to nerd out about algorithms and new ideas. :bulb: I love data, debugging
 
 ## What I'm up to now:
 
-* Improving my Python :snake: by studying data structures and algorithms (dictionaries are my favorite!).
+* Studying data structures and algorithms (Python dictionaries are my favorite! :snake:).
 * Working toward deploying my favorite project, [Cello Tree](https://github.com/coriography/cello_tree).
 * Building a personal portfolio website in React.
-* At [Artists Who Code](https://www.linkedin.com/company/artistswhocode/), I'm editor of the blog (coming soon) and leader of the algorithms study group.
+* Editing the blog (coming soon) and leading algos study group at [Artists Who Code](https://www.linkedin.com/company/artistswhocode/).
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/cori-lint/) | [Twitter](https://twitter.com/CoriLint)
