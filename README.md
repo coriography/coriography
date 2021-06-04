@@ -2,11 +2,7 @@
 
 ## tl;dr:
 
-* I like to nerd out about algorithms and new ideas. :bulb:
-* I love data, debugging, and thoughtful processes. :bar_chart:
-* My background is in classical music. :violin:
-* I care about people. :busts_in_silhouette:
-* I care about tech that makes a positive impact. :muscle:
+I like to nerd out about algorithms and new ideas. :bulb: I love data, debugging, and thoughtful processes. :bar_chart: My background is in classical music. :violin: I care about people :busts_in_silhouette: and tech that makes a positive impact. :muscle:
 
 ## What's happening lately?
 
@@ -16,4 +12,4 @@
 * At [Artists Who Code](https://www.linkedin.com/company/artistswhocode/), I'm editor of the blog (coming soon) and leader of the algorithms study group.
 
 ## Connect with me:
-[LinkedIn](https://www.linkedin.com/in/cori-lint/)
+[LinkedIn](https://www.linkedin.com/in/cori-lint/) | [Twitter](https://twitter.com/CoriLint)
