@@ -6,10 +6,10 @@ I like to nerd out about algorithms and new ideas. :bulb: I love data, debugging
 
 ## What I'm up to now:
 
-* Studying data structures and algorithms (Python dictionaries are my favorite! :snake:).
+* Joining my new team at [Ovia Health](https://www.oviahealth.com/) in July 2021 as a backend engineer.
 * Working toward deploying my favorite project, [Cello Tree](https://github.com/coriography/cello_tree).
 * Building a personal portfolio website in React.
-* Editing the blog (coming soon) and leading algos study group at [Artists Who Code](https://www.linkedin.com/company/artistswhocode/).
+* Co-directing Mentorship and leading Algorithms Study Group at [Artists Who Code](https://www.linkedin.com/company/artistswhocode/).
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/cori-lint/) | [Twitter](https://twitter.com/CoriLint)
