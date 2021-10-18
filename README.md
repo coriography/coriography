@@ -6,10 +6,11 @@ I like to nerd out about algorithms and new ideas. :bulb: I love data, debugging
 
 ## What I'm up to now:
 
-* Joining my new team at [Ovia Health](https://www.oviahealth.com/) in July 2021 as a backend engineer.
-* Working toward deploying my favorite project, [Cello Tree](https://github.com/coriography/cello_tree).
-* Building a personal portfolio website in React.
-* Co-directing Mentorship and leading Algorithms Study Group at [Artists Who Code](https://www.linkedin.com/company/artistswhocode/).
+* Contributing to [Ovia Health's](https://www.oviahealth.com/) apps for fertility, pregnancy, and parenting as a backend engineer.
+* Gaining proficiency in PHP and SQL. 
+* Reading [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/).
+* Working toward deploying my personal portfolio website and blog, built with React.
+* Co-directing the Mentorship program at [Artists Who Code](https://www.linkedin.com/company/artistswhocode/).
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/cori-lint/) | [Twitter](https://twitter.com/CoriLint)
