@@ -6,11 +6,9 @@ I like to nerd out about algorithms and new ideas. :bulb: I love data, debugging
 
 ## What I'm up to now:
 
-* Contributing to [Ovia Health's](https://www.oviahealth.com/) apps for fertility, pregnancy, and parenting as a backend engineer.
-* Gaining proficiency in PHP and SQL. 
-* Reading [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/).
-* Working toward deploying my personal portfolio website and blog, built with React.
-* Co-directing the Mentorship program at [Artists Who Code](https://www.linkedin.com/company/artistswhocode/).
+* Backend engineering at [Ovia Health](https://www.oviahealth.com/), supporting [apps for fertility, pregnancy, and parenting](https://info.oviahealth.com/enroll).
+* Advocating for artists in the tech world as Director of [Artists Who Code](https://linktr.ee/artistswhocode).
+* Keeping my frontend skills fresh with personal projects and mentorship in CSS and JavaScript/React.
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/cori-lint/) | [Twitter](https://twitter.com/CoriLint)
