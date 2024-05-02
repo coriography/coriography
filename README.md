@@ -6,9 +6,9 @@ I like to nerd out about algorithms and new ideas. :bulb: I love data, debugging
 
 ## What I'm up to now:
 
-* Backend engineering at [Ovia Health](https://www.oviahealth.com/), supporting [apps for fertility, pregnancy, and parenting](https://info.oviahealth.com/enroll).
-* Advocating for artists in the tech world as Director of [Artists Who Code](https://linktr.ee/artistswhocode).
-* Keeping my frontend skills fresh with personal projects and mentorship in CSS and JavaScript/React.
+* Software engineering at [Loop](https://www.loopreturns.com/)!
+* Advocating for artists in the tech world with [Artists Who Code](https://linktr.ee/artistswhocode).
+* Speaking, volunteering, and attending conferences such as Longhorn PHP and php[tek].
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/cori-lint/) | [Twitter](https://twitter.com/CoriLint)
