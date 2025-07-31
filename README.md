@@ -45,5 +45,4 @@ I came to tech by way of classical music, which means I care deeply about techni
 
 ## 🤝 Let’s Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/cori-lint/)  
-🐙 [GitHub](https://github.com/coriography)  
+🔗 [LinkedIn](https://www.linkedin.com/in/cori-lint/)
