@@ -36,7 +36,7 @@ I came to tech by way of classical music, which means I care deeply about techni
 
 ## 🎙 Conference Talks, Publications, & Awards
 
-- 🌟 **“Work Smarter: Code Like a Musician”** – KEYNOTE at the upcoming [Longhorn PHP]([url](https://longhornphp.com/)) conference.
+- 🌟 **“Work Smarter: Code Like a Musician”** – keynote at [Longhorn PHP]([url](https://longhornphp.com/)).
 - **“Building a SOLID Foundation”** – talk on OOP principles at php[tek], Artists Who Code, and Tulsa Web Devs; published as article in *php[architect]* magazine  
 - **“Touching Grass: How NOT Developing Makes Us Better Devs”** – talk at php[tek] and Artists Who Code  
 - **“Work Smarter: Take Cues from the Music-Learning Process”** – essay in [24 Days of PHP](https://24daysindecember.net/author/corilint/)  
